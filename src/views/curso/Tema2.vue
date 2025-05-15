@@ -26,7 +26,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Definición de momento de inercia
             p.mb-4(data-aos="fade-right") En el PDF Definición de momento de inercia, se expone su significado físico, su expresión matemática y su aplicación práctica mediante ejercicios resueltos que contemplan cuerpos con diferentes distribuciones de masa, facilitando así la comprensión de su relevancia en el análisis de sistemas mecánicos y en el diseño de componentes rotacionales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -123,16 +123,16 @@
                 p <strong>Anexo. </strong> Ejercicios resueltos
 
     #t_2_3.titulo-segundo(data-aos="flip-up")
-      h2 #[span 2.3] Definición de momento de inercia
+      h2 #[span 2.3] Relación entre masa, geometría y momento de inercia
 
-    p(data-aos="fade-down") El momento de inercia es un concepto fundamental en la dinámica rotacional, ya que permite cuantificar la resistencia de un cuerpo a modificar su estado de giro.
+    p(data-aos="fade-down") La comprensión de la relación entre masa, geometría y momento de inercia es esencial para el diseño y análisis de sistemas rotacionales.
     .bg-full-width.bg-color-4.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Relación entre masa, geometría y momento de inercia
             p.mb-4(data-aos="fade-right") En el PDF Relación entre masa, geometría y momento de inercia, se abordan los principios fundamentales que explican cómo la distribución de la masa respecto al eje de rotación influye en la resistencia al cambio del movimiento angular, complementados con ejemplos prácticos que permiten optimizar estructuras como volantes de inercia en aplicaciones industriales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -171,7 +171,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Ejercicio resuelto 2
             p.mb-4(data-aos="fade-right") En el PDF Ejercicio resuelto 2, se presenta un caso práctico en el que se analiza cómo determinar el radio óptimo de un disco para minimizar el par requerido por un motor eléctrico, partiendo de condiciones específicas de masa, tiempo y velocidad angular. Este ejemplo permite comprender cómo la adecuada elección de parámetros físicos, influye directamente en la eficiencia energética de dispositivos industriales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -181,9 +181,9 @@
               img(src='@/assets/curso/temas/46.png', alt='')  
 
     #t_2_5.titulo-segundo(data-aos="flip-up")
-      h2 #[span 2.5] Definición de momento de inercia
+      h2 #[span 2.5] Análisis de estabilidad y balanceo en sistemas rotacionales
 
-    p(data-aos="fade-down") El momento de inercia es un concepto fundamental en la dinámica rotacional, ya que permite cuantificar la resistencia de un cuerpo a modificar su estado de giro.
+    p(data-aos="fade-down") El análisis de estabilidad y balanceo en sistemas rotacionales, es clave para optimizar el rendimiento y prolongar la vida útil de maquinaria en contextos industriales.
 
     .bg-full-width.bg-color-4.mb-5
       .px-4.p-md-5
@@ -192,13 +192,13 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/47.png', alt='')            
           .col-lg-8
-            h2.mb-4(data-aos="flip-up") Análisis de estabilidad y balanceo en sistemas 
+            h2.mb-4(data-aos="flip-up") Análisis de estabilidad y balanceo en sistemas rotacionales
             p.mb-4(data-aos="fade-right") En el PDF Análisis de estabilidad y balanceo en sistemas rotacionales, se expone cómo la distribución de la masa, el momento de inercia y el diseño geométrico, influyen en el comportamiento dinámico de componentes giratorios, además de presentarse un ejercicio práctico que ilustra el cálculo de fuerzas centrífugas y estrategias de corrección, mediante balanceo. Este enfoque facilita la comprensión y aplicación de técnicas que permiten minimizar vibraciones, mejorar la eficiencia y garantizar la seguridad operativa de los equipos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> rotacionales
+                p <strong>Anexo. </strong> Análisis de estabilidad y balanceo en sistemas rotacionales
 
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5

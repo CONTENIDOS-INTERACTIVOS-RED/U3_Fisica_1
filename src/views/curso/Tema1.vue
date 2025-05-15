@@ -4,7 +4,6 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
     .bg-color-2.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-
         .col-lg
           .p-4
             p.mb-0(data-aos="fade-up") En esta sección, se sumergirá en los fundamentos del momento lineal y su conservación. Comenzará por comprender la definición del momento lineal como el producto de la masa y la velocidad de un cuerpo, y cómo esta cantidad vectorial describe el estado de movimiento de un objeto. A continuación, explorará el principio de conservación del momento lineal, que establece que, en ausencia de fuerzas externas, el momento lineal total de un sistema, permanece constante. Luego, aprenderá sobre la relación entre el impulso y el cambio de momento y cómo, las fuerzas aplicadas durante un intervalo de tiempo, pueden alterar el estado de movimiento de un cuerpo. Además, estudiará las colisiones elásticas e inelásticas, y cómo la #[b conservación del momento lineal], permite analizar el comportamiento de los cuerpos durante estos eventos. Por último, descubrirá las aplicaciones de estos principios en procesos industriales, como el transporte de materiales, los procesos de impacto y molienda, y el diseño de sistemas de seguridad.
@@ -104,7 +103,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Principio de conservación del momento lineal 
             p.mb-4(data-aos="fade-right") En el PDF Principio de conservación del momento lineal, se abordan sus fundamentos teóricos, se explica su relación con las leyes de Newton y se presentan ejemplos prácticos orientados a la ingeniería, como el análisis de colisiones entre cuerpos y la evaluación de impactos, facilitando la comprensión de su aplicación en el diseño de sistemas mecánicos y de seguridad.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -204,7 +203,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Colisiones elásticas e inelásticas 
             p.mb-4(data-aos="fade-right") En el PDF Colisiones elásticas e inelásticas, se explica la diferencia entre ambos tipos de colisiones, destacando sus principios físicos fundamentales y su aplicación práctica en contextos como la seguridad industrial y el diseño de sistemas de absorción de impactos, a través de ejercicios resueltos que permiten afianzar los conceptos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

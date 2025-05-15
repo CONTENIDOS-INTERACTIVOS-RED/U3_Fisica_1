@@ -32,7 +32,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Análisis de poleas y engranajes en movimiento rotacional 
             p.mb-4(data-aos="fade-right") En el PDF Análisis de poleas y engranajes en movimiento rotacional, se abordan los principios fundamentales de estos mecanismos, su relación con la velocidad angular, el par transmitido y el momento de inercia, así como sus implicaciones en la eficiencia y estabilidad de los sistemas. Además, se presenta un ejercicio práctico que ilustra la aplicación de estos conceptos en el cálculo de variables claves para el diseño de transmisiones industriales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -74,7 +74,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Ejercicio resuelto 3
             p.mb-4(data-aos="fade-right") En el PDF Ejercicio resuelto 3, se presenta un caso práctico sobre el análisis de vibraciones en una máquina montada sobre aisladores, aplicando conceptos como rigidez, amortiguamiento, frecuencia natural y respuesta en régimen estacionario. Este ejemplo permite comprender cómo calcular la amplitud de las vibraciones y evaluar la eficiencia de un sistema de aislamiento vibratorio, en contextos industriales reales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_9.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -91,7 +91,7 @@
         figure
           img.img-a.img-t(src="@/assets/curso/temas/55.png", data-aos="zoom-in")
       .col-lg-6
-        p(data-aos="fade-left").mb-4 A continuación, se aborda cómo el estado emocional de los estudiantes influye directamente en su capacidad para concentrarse y aprender.
+        p(data-aos="fade-left").mb-4 Para conocer sobre esta temática, lo invitamos a escuchar el siguiente pódcast.
         
         TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
           texto="Estudio de mecanismos de transmisión de potencia"
@@ -197,7 +197,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Aplicación de la conservación del momento angular 
             p.mb-4(data-aos="fade-right") En el PDF Aplicación de la conservación del momento angular, se explora cómo este principio permite comprender el comportamiento de dispositivos como giroscopios, volantes de inercia y satélites en rotación, incluso ante cambios en su orientación. A través de un caso práctico, se ilustra cómo se mantiene constante el momento angular en ausencia de momentos externos, lo que permite analizar y predecir la respuesta de sistemas mecánicos complejos, ante reorientaciones o variaciones de carga.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_10.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -212,13 +212,13 @@
       .px-4.p-md-5
         .row.justify-content-center.align-items-center       
           .col-lg-8.mb-3.mb-lg-0
-            h2.mb-4(data-aos="flip-up") Optimización de maquinaria industrial considerando 
+            h2.mb-4(data-aos="flip-up") Optimización de maquinaria industrial considerando la dinámica rotacional 
             p.mb-4(data-aos="fade-right") En el PDF Optimización de maquinaria industrial considerando la dinámica rotacional, se analizan estrategias para mejorar el diseño, el balanceo y la transmisión de potencia en componentes rotativos, reduciendo vibraciones y aumentando la eficiencia. Este enfoque integral permite, a los ingenieros industriales, optimizar la maquinaria mediante herramientas avanzadas de simulación, seleccionando materiales y configuraciones que aseguren estabilidad, precisión y menor desgaste en los sistemas mecánicos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_11.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong>la dinámica rotacional 
+                p <strong>Anexo. </strong>Optimización de maquinaria industrial considerando la dinámica rotacional
           .col-lg-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/63.png', alt='') 
